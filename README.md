@@ -1,1 +1,1 @@
- <img src="./images/leon.png" alt="Search TextInput" width="100%" height="" />
+<img src="leon.png" alt="Search TextInput" width="100%" height="" />
